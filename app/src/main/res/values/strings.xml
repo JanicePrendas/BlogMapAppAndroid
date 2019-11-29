@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BlogMapApp</string>
+    <string name="title">Coding Challenge</string>
+    <string name="tab_text_1">Blog</string>
+    <string name="tab_text_2">Map</string>
+
+    <!--Blog Strings-->
+    <string name="title_label">Title</string>
+    <string name="description_label">Description</string>
+    <string name="author_label">Author</string>
+    <string name="date_label">Date</string>
+    <string name="image_label">Image</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
