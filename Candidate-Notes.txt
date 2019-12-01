@@ -1,0 +1,1 @@
+I tried to implement pagination on the RecyclerView of the Blog section. Notwithstanding, I noticed that the Api was not configured for pagination purposes. Despite that, the best solution to this coding challenge should include pagination for the articles list.
